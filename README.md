@@ -3,9 +3,6 @@
 Glad to see you here! 😀
 My name is Christopher Marques Corrêa, and I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2017 (also have a past as Back End Developer and Graphic Designer). I'm passioned for tech and education, and I strongly believe that the sum of these two can change the World.
 
-![Languages](https://github.com/ChristopherMarques/github-stats/blob/master/generated/languages.svg)
-![Overview](https://github.com/ChristopherMarques/github-stats/blob/master/generated/overview.svg)
-
 * 🌱 I’m loving to work with:
     - [NextJS](https://nextjs.org)
     - [TypeScript](https://www.typescriptlang.org)
@@ -21,6 +18,9 @@ My name is Christopher Marques Corrêa, and I'm from Brazil (🇧🇷). I've bee
     - I love to play and sing musics 🎸 🎤
     - I'm Christian 🙏🏾 
     - I've a dog named "Magneto" (Yes, i'm a nerd haha) 😆
+
+![Languages](https://github.com/ChristopherMarques/github-stats/blob/master/generated/languages.svg)
+![Overview](https://github.com/ChristopherMarques/github-stats/blob/master/generated/overview.svg)
 
 Thank you for coming, God Bless You! ❤
 <!--
