@@ -1,7 +1,7 @@
 ### What's Up guys? 👋
 
 Glad to see you here! 😀
-My name is Christopher Marques Corrêa, and I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2017 (also have a past as Back End Developer and Graphic Designer). I'm passioned for tech and education, and I strongly believe that the sum of these two can change the World.
+My name is Christopher Marques Corrêa, and I'm from Brazil (🇧🇷). Actually I'm working as a Front-End Software Engineer at @Popstand (also have a past as Back End Developer and Graphic Designer). I'm passioned for tech and education, and I strongly believe that the sum of these two can change the World.
 
 * 🌱 I’m loving to work with:
     - [NextJS](https://nextjs.org)
