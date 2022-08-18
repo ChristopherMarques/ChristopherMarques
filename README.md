@@ -26,6 +26,9 @@ an 🙏🏾
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=ChristopherMarques" height="150" alt="languages graph"  />
 </div>
 
+<div align="left" margin-top="5px" margin-bottom="5px">
+    <img href="https://github.com/ChristopherMarques/ChristopherMarques/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="left">
   <a href="https://open.spotify.com/user/22ierpbvtzfd7mnyqkhvzz2di">
