@@ -1,7 +1,7 @@
 ### What's Up guys? 👋
 
-Glad to see you here! 😀
-My name is Christopher Marques Corrêa, and I'm from Brazil (🇧🇷). Actually I'm working as a Front-End Software Engineer at @Popstand (also have a past as Back End Developer and Graphic Designer). I'm passioned for tech and education, and I strongly believe that the sum of these two can change the World.
+Hey there, my name is Christopher!
+I'm a frontend engineer from Brazil (🇧🇷) with more than 6 years of experience, specializing in JavaScript, React, and React Native. My passion is to create user-friendly interfaces and craft responsive websites that drive engagement and conversions. I have worked on various projects, ranging from small startups to large-scale enterprises, and have experience in developing scalable and optimized code. I am a quick learner and always on the lookout for new techniques and trends in frontend development to stay ahead of the game.
 
 * 🔥 I’m loving to work with:
     - [NextJS](https://nextjs.org)
@@ -10,7 +10,8 @@ My name is Christopher Marques Corrêa, and I'm from Brazil (🇧🇷). Actually
     - [Firebase](https://firebase.google.com/)
     
 * 💬 Let's talk about
-    - Front-End Development 💻
+    - Software Development 💻
+    - Frontend 🖥️
     - Blockchain/Web3 👾
     - Music and Series 🎧
     - Graphic Design 🎨
