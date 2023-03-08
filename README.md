@@ -1,6 +1,6 @@
-### What's Up guys? 👋
+### Hey There 👋
 
-Hey there, my name is Christopher!
+My name is Christopher!
 I'm a frontend engineer from Brazil (🇧🇷) with more than 6 years of experience, specializing in JavaScript, React, and React Native. My passion is to create user-friendly interfaces and craft responsive websites that drive engagement and conversions. I have worked on various projects, ranging from small startups to large-scale enterprises, and have experience in developing scalable and optimized code. I am a quick learner and always on the lookout for new techniques and trends in frontend development to stay ahead of the game.
 
 * 🔥 I’m loving to work with:
