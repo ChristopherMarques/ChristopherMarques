@@ -17,14 +17,13 @@ I'm a frontend engineer from Brazil (🇧🇷) with more than 6 years of experie
     - Graphic Design 🎨
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=ChristopherMarques" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=ChristopherMarques" height="150" alt="languages graph"  />
 </div>
 
 
 <div align="left">
   <a href="https://open.spotify.com/user/22ierpbvtzfd7mnyqkhvzz2di">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ierpbvtzfd7mnyqkhvzz2di&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ierpbvtzfd7mnyqkhvzz2di&count=1" alt="Spotify recently played"  />
   </a>
 </div>
 
